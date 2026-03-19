@@ -1,0 +1,7 @@
+# Azure Functions local settings
+local.settings.json
+
+# Build folders
+bin/
+obj/
+*.user
